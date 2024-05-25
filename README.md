@@ -19,7 +19,7 @@ An enthusiastic Full Stack Developer with a knack for creating dynamic and innov
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/naman-gujarathi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/namangujarathi/))
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/_i.am.naman_/)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:gujarathi.n@northeastern.edu)
 
