@@ -4,8 +4,8 @@ An enthusiastic Full Stack Developer with a knack for creating dynamic and innov
 
 - 🔭 I’m currently working on **Building Software**
 - 🌱 I’m currently learning **DataStrucure and Algorithms,System Design, and Low-Level Design**
-- 👨‍💻 All of my projects are available at [My Portfolio]((https://github.com/Naman-Gujarathi?tab=repositories))
-- 📝 I am Northeastern University content creator and my articles can be found on [MGEN COE]([https://www.linkedin.com/in/naman-gujarathi/](https://coe.northeastern.edu/news-events/spotlight-stories/?dept=23&prg&top&yr&mth))
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Naman-Gujarathi?tab=repositories)
+- 📝 I am a Northeastern University content creator, and my articles can be found on [MGEN COE](https://coe.northeastern.edu/news-events/spotlight-stories/?dept=23&prg&top&yr&mth)
 - 💬 Ask me about **Coding, Software Engineering, System Design, Programming**
 - 📫 How to reach me: [gujarathi.n@northeastern.edu](mailto:gujarathi.n@northeastern.edu)
 
