@@ -87,7 +87,6 @@ An enthusiastic Full Stack Developer with a knack for creating dynamic and innov
 #### Frontend Projects and Learning
 - **Personal Portfolio**
 - **MERN HealthCare Application**
-- 
 
 #### Building Scalable Application, Learning Concepts
 - **Low Level Design**
